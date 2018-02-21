@@ -1,0 +1,5 @@
+MODIFY . 5 , chair , 3 , comfortable wooden chair , $12/each , 2017/12/04 , 21:50 , bellmore NY , chair.jpg
+INSERT . 5 , chair , 4 , comfortable wooden chair , $12/each , 2017/12/04 , 21:50 , bellmore NY , image.jpg
+INSERT . 2354 , iphone 5 , 1 , used iphone 5 availabe in gold color , $400 , 2017/12/04 , 20:0 , floral park NY , IPHONE
+INSERT . 35 , Comforter Set , 3 , Cozy comforter set queen sized available in 3 colors , $20
+MODIFY . 4 , chair , 1 , comfortable wooden chair , $12
